@@ -321,6 +321,12 @@
 			}
 		}
 
+		&.favicon {
+			display: inline-block;
+			width: 75px;
+			height: 75px;
+		}
+
 		&.fit {
 			display: block;
 			width: 100%;
